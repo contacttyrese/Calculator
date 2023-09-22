@@ -8,7 +8,7 @@
 <h2 align="center">Topics 📋</h2>
 
  <p>
-   
+
 - [About 📖](#about-)
 - [Preview 📱](#preview-)
 - [Challenges and Learnings along the way 🤯](#---challenges-and-learnings-along-the-way----)
@@ -21,7 +21,7 @@
 ---
 
    <h2 align="center">About 📖</h2>
-   
+
    <p align="center">
       A Calculator for the four simple mathematical operations (addition, subtraction, multiplication and division) using Flutter 💙. <br>
       This calculator is designed to look like the Mac calculator. <br>
@@ -59,8 +59,8 @@
    - For install dependencies:
    $ flutter packages get
 
-   - Run the app: 
-   $ flutter run
+   - Run the app:
+   $ flutter run --debug or flutter build apk --debug
    ```
 
    ---
@@ -68,7 +68,7 @@
    <h2 align="center">How to Contribute 💪</h2>
 
    ```
-   - Fork the project 
+   - Fork the project
 
    - Create a new branch with your changes:
    $ git checkout -b my-feature
